@@ -1,1 +1,4 @@
 develop2 add file
+
+
+버그 수정했다
